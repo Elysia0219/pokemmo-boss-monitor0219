@@ -1,3 +1,4 @@
+***
 name: Pokemmo Boss Monitor
 
 on:
@@ -23,3 +24,4 @@ jobs:
           
       - name: Run monitor
         run: python pokemmo_boss.py
+***
